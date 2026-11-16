@@ -1,0 +1,6 @@
+{
+  "name": "KaryaNaskah — AI Novel Generator",
+  "description": "Studio penulisan novel bertenaga AI untuk menyusun kerangka cerita, menulis bab demi bab secara konsisten, dan mengekspor naskah ke PDF.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
